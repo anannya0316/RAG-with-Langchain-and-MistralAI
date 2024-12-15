@@ -13,6 +13,10 @@ Prepare to dive deep into the realm of Natural Language Processing! This Jupyter
 - **Retrieve Character Information**
   - Simply enter a character name and behold—detailed profiles emerge, as if by magic, from the depths of your dataset.
   - ![Character Retrieval](https://github.com/user-attachments/assets/fadeca18-2af5-4fcc-b004-4c44d10f3b82)
+ 
+- **Edge case Handling**
+- If your character name doesn't exist in the data you provided as a knowledge base then you get a response like this:
+- ![image](https://github.com/user-attachments/assets/b616bd8d-9004-4276-ba8a-f9459cffe6fd)
 
 ## Prerequisites
 Before diving in, ensure you're all set:
@@ -29,9 +33,6 @@ Before diving in, ensure you're all set:
 - **Immediate Results**: Enjoy seeing the output of your interactions immediately—perfect for both beginners and seasoned data scientists.
 - **Flexibility**: Engage with the notebook at your own pace, explore the intricacies of the code, or simply use it as a tool.
 
-## Getting Help
-- **FAQ Section**: Check the in-notebook FAQ for quick answers.
-- **Kaggle Discussion Boards**: Leverage the community-driven support on Kaggle forums.
 
 ## Enjoy and Explore! 🎉
 Embrace the learning journey and have fun experimenting with different characters and textual analyses. This notebook is designed to spark your curiosity and enhance your data science skills!
