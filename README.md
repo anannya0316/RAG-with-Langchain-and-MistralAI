@@ -11,7 +11,7 @@ Prepare to dive deep into the realm of Natural Language Processing! This Jupyter
   - ![Compute Embeddings](https://github.com/user-attachments/assets/7e5ec5e1-89f3-4c68-8f5d-d2e815cab02a)
 
 - **Retrieve Character Information**
-  - Simply enter a character name and behold—detailed profiles emerge, as if by magic, from the depths of your dataset.
+  - Simply enter a character name and your characters detailed profiles emerges.
   - ![Character Retrieval](https://github.com/user-attachments/assets/fadeca18-2af5-4fcc-b004-4c44d10f3b82)
  
 - **Edge case Handling**
