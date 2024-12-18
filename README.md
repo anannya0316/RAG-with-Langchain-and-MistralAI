@@ -21,6 +21,7 @@ MISTRAL_API_KEY=your_mistral_api_key_here
 1. Compute Embeddings: python main.py compute-embeddings <path-to-story-files> <path-to-vector-db>
 
 ![image](https://github.com/user-attachments/assets/ad9e7002-f363-4c3f-90a4-5e6c9245c40b)
+
 ![image](https://github.com/user-attachments/assets/6c6e8428-90d6-4e23-bf99-69e8b0149aff)
 
 2. Get Character Information: python main.py get-character-info "Character Name" <path-to-vector-db>
