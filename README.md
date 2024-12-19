@@ -8,7 +8,7 @@ Prepare to dive deep into the realm of Natural Language Processing! This Jupyter
 ### Step 1: Clone the repository
 Clone the repository to your local machine and navigate to the project directory:
 
-git clone https://github.com/anannya0316/RAG-with-Langchain-and-MistralAI/edit/main/README.md
+git clone https://github.com/anannya0316/RAG-with-Langchain-and-MistralAI
 cd <repository-directory>
 
 ### Step 2: Install dependencies
