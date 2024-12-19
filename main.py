@@ -57,11 +57,8 @@ def get_character_info(character_name, vector_db_path):
     mistral_llm = MistralLLM(api_key)
     response = mistral_llm.call(prompt)
 
-    try:
-        structured_response = json.loads(response)
-        print(json.dumps(structured_response, indent=4))
-    except json.JSONDecodeError:
-        print(f"Could not parse response into JSON format. Response: {response}")
+   
+    print(f" Response: {response}")
 
 def main():
     parser = argparse.ArgumentParser(description="CLI tool for story embeddings and character information retrieval")
